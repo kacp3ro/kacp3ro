@@ -1,6 +1,6 @@
 ![head.png](https://github.com/kacp3ro/img/blob/main/wave%20(8).svg)
 
-Hi there, thanks for stopping by, this is **kacp3ro**.
+<h2>💻 Hi there, thanks for stopping by and this is me kacp3ro. 💻</h2>
 
 <img align='right' src="https://github.com/kacp3ro/img/blob/main/octocat.gif" width="230">
 
@@ -18,8 +18,11 @@ const kacp3ro = {
     }
 };
 ```
+</br></br>
+<h2>💻 Some stats 💻</h2>
 
-![kacp3ro's github stats](https://github-readme-stats.vercel.app/api?username=kacp3ro&hide=contribs,prs&count_private=true&show_icons=true)
+![kacp3ro's github stats](https://github-readme-stats.vercel.app/api?username=kacp3ro&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
 
 <a href="https://github.com/kacp3ro">
   <img src="https://img.shields.io/github/followers/kacp3ro">
@@ -33,3 +36,5 @@ const kacp3ro = {
 ---
 
 ⭐️ From [@kacp3ro](https://github.com/kacp3ro)
+
+
