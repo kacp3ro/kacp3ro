@@ -10,7 +10,7 @@ const kacp3ro = {
     askMeAbout: ["web dev", "tech"],
     technologies: {
         frontEnd: {
-            js: ["Angular"],
+            js: ["TypeScript", "Angular"],
             css: ["bootstrap", "sass"]
         },
         backEnd: ["PHP"],
