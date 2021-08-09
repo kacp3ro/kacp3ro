@@ -1,16 +1,35 @@
-### Hi there 👋
+![head.png](https://github.com/kacp3ro/img/blob/main/wave%20(8).svg)
 
-<!--
-**kacp3ro/kacp3ro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there, thanks for stopping by, this is **kacp3ro**.
 
-Here are some ideas to get you started:
+<img align='right' src="https://github.com/kacp3ro/img/blob/main/octocat.gif" width="230">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const kacp3ro = {
+    pronouns: "He" | "Him",
+    askMeAbout: ["web dev", "tech"],
+    technologies: {
+        frontEnd: {
+            js: ["Angular"],
+            css: ["bootstrap", "sass"]
+        },
+        backEnd: ["PHP"],
+        databases: ["MySql", "MongoDB"],
+    }
+};
+```
+
+![kacp3ro's github stats](https://github-readme-stats.vercel.app/api?username=kacp3ro&hide=contribs,prs&count_private=true&show_icons=true)
+
+<a href="https://github.com/kacp3ro">
+  <img src="https://img.shields.io/github/followers/kacp3ro">
+</a>
+<a href="https://github.com/kacp3ro">
+   <img src="https://komarev.com/ghpvc/?username=kacp3ro">
+</a>
+
+![bottom.png](https://github.com/kacp3ro/img/blob/main/wave%20(7).svg)
+
+---
+
+⭐️ From [@kacp3ro](https://github.com/kacp3ro)
