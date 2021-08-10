@@ -30,6 +30,9 @@ const kacp3ro = {
 <a href="https://github.com/kacp3ro">
    <img src="https://komarev.com/ghpvc/?username=kacp3ro">
 </a>
+</br></br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kacp3ro&show_icons=true)
 
 ![bottom.png](https://github.com/kacp3ro/img/blob/main/wave%20(7).svg)
 
