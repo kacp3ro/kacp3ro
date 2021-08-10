@@ -10,11 +10,14 @@ const kacp3ro = {
     askMeAbout: ["web dev", "tech"],
     technologies: {
         frontEnd: {
-            js: ["TypeScript", "Angular"],
+            js: ["TypeScript"],
             css: ["bootstrap", "sass"]
         },
+        toLearn: {
+        js: ["Angular", "React.js", "Node.js"],
         backEnd: ["PHP"],
         databases: ["MySql", "MongoDB"],
+        }
     }
 };
 ```
