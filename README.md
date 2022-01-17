@@ -20,6 +20,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kacp3ro&show_icons=true&locale=en" alt="kacp3ro" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kacp3ro&" alt="kacp3ro" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kacp3ro&theme=dark" alt="kacp3ro" /></p>
 
 
