@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm kacp3ro</h1>
-<br>
-<h3 align="center">A passionate frontend developer from Poland</h3>
+<img align="left" src="https://raw.githubusercontent.com/kacp3ro/img/main/wave%20(8).svg" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kacp3ro&label=Profile%20views&color=0e75b6&style=flat" alt="kacp3ro" /> </p>
+<h1 align="center">Hi 👋, I'm kacp3ro</h1>
+<h3 align="center">A passionate frontend developer from Poland</h3>
 
 - 🔭 I’m currently working on **my portfolio**
 
@@ -23,4 +22,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kacp3ro&theme=dark" alt="kacp3ro" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kacp3ro&label=Profile%20views&color=0e75b6&style=flat" alt="kacp3ro" /> </p>
 
+<img align="left" src="https://raw.githubusercontent.com/kacp3ro/img/main/wave%20(7).svg" />
