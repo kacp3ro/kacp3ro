@@ -1,47 +1,25 @@
-![head.png](https://github.com/kacp3ro/img/blob/main/wave%20(8).svg)
+<h1 align="center">Hi 👋, I'm kacp3ro</h1>
+<h3 align="center">A passionate frontend developer from Poland</h3>
 
-<h2>💻 Hi there, thanks for stopping by and this is me kacp3ro. 💻</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kacp3ro&label=Profile%20views&color=0e75b6&style=flat" alt="kacp3ro" /> </p>
 
-<img align='right' src="https://github.com/kacp3ro/img/blob/main/octocat.gif" width="230">
+- 🔭 I’m currently working on **my portfolio**
 
-```javascript
-const kacp3ro = {
-    pronouns: "He" | "Him",
-    askMeAbout: ["web dev", "tech"],
-    technologies: {
-        frontEnd: {
-            html,
-            js,
-            css: ["bootstrap", "sass"]
-        },
-        toLearn: {
-        js: ["Angular", "React.js", "Node.js"],
-        backEnd: ["PHP", "Python"],
-        databases: ["MySql", "MongoDB"],
-        }
-    }
-};
-```
-</br></br>
-<h2>💻 Some stats 💻</h2>
+- 🌱 I’m currently learning **Python**
 
-![kacp3ro's github stats](https://github-readme-stats.vercel.app/api?username=kacp3ro&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+- ⚡ Fun fact **I play FPS games**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-<a href="https://github.com/kacp3ro">
-  <img src="https://img.shields.io/github/followers/kacp3ro">
-</a>
-<a href="https://github.com/kacp3ro">
-   <img src="https://komarev.com/ghpvc/?username=kacp3ro">
-</a>
-</br></br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kacp3ro&show_icons=true)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kacp3ro&show_icons=true&locale=en&layout=compact" alt="kacp3ro" /></p>
 
-![bottom.png](https://github.com/kacp3ro/img/blob/main/wave%20(7).svg)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kacp3ro&show_icons=true&locale=en" alt="kacp3ro" /></p>
 
----
-
-⭐️ From [@kacp3ro](https://github.com/kacp3ro)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kacp3ro&" alt="kacp3ro" /></p>
 
 
