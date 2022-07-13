@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my portfolio**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning ****
 
 - ⚡ Fun fact **I play FPS games**
 
